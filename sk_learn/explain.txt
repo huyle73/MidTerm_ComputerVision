@@ -1,0 +1,10 @@
+https://machinelearningcoban.com/2017/01/08/knn/
+
+https://www.python-course.eu/naive_bayes_classifier_scikit.php
+
+
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html
+
+https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html
+
+https://scikit-learn.org/stable/auto_examples/tree/plot_iris_dtc.html
